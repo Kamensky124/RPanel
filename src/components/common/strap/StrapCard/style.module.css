@@ -1,0 +1,10 @@
+.cardFieldBlock {
+    margin-bottom: 0.5em;
+}
+.cardTitle {    
+    font-weight: bold;
+    margin-bottom: 0 !important;
+}
+.cardButton {
+    margin-top: 0.5em;
+}

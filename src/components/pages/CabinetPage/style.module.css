@@ -1,0 +1,9 @@
+.gIcon {
+    cursor: pointer;    
+}
+.gIcon:hover {
+    opacity: 0.5;
+}
+.gIcon.big {
+    width: 100%;
+}

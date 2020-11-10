@@ -1,0 +1,17 @@
+.spinnerWrapper { 
+    background: #fff;
+    height: 100%;
+    position: relative;    
+    width: 100%;    
+    z-index: 9999;
+    zopacity: 0.5;
+}
+.spinnerWrapper > div {
+    bottom: 50%;
+    left: 0;
+    margin: auto;    
+    zposition: absolute;    
+    position: fixed;    
+    right: 0;
+    top: 50%;            
+}

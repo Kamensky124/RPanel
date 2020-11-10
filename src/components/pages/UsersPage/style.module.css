@@ -1,0 +1,12 @@
+.gIcon {
+    cursor: pointer;    
+}
+.gIcon:hover {
+    opacity: 0.5;
+}
+.gIcon.big {
+    width: 100%;
+}
+.emptyPage {
+    margin: 1em 0em 0em 0em;
+}
